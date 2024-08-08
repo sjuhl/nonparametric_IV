@@ -6,4 +6,4 @@ Most instrumental variable analyses (IVs) employ a Two-Stage-Least-Squares (2SLS
 ## Authors
 - [Vera E. Troeger](https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/troeger/team/troeger-vera.html) (University of Hamburg)
 - [Elias Dinas](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Dinas) (European University Institute)
-- [Sebastian Juhl](http://www.sebastianjuhl.com) (SFB 884; University of Mannheim)
+- [Sebastian Juhl](http://www.sebastianjuhl.com) (SAP SE & University of Missouri)
